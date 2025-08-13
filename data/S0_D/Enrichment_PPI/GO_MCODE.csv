@@ -1,0 +1,8 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+MyList,GO Biological Processes,19,GO:0022613,ribonucleoprotein complex biogenesis,19_GO:0009987 cellular process,-3.6,12,6.5,21222,435,16,4,25,11,72459|101592|192196|227674,Htatsf1|Efl1|Luc7l2|Ddx31,0
+MyList,GO Biological Processes,19,GO:0000398,"mRNA splicing, via spliceosome",19_GO:0009987 cellular process,-3.2,17,6.8,21222,234,16,3,19,9.8,20637|72459|192196,Snrnp70|Htatsf1|Luc7l2,0
+MyList,GO Biological Processes,19,GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",19_GO:0009987 cellular process,-3.2,17,6.8,21222,234,16,3,19,9.8,20637|72459|192196,Snrnp70|Htatsf1|Luc7l2,0
+MyList,GO Biological Processes,19,GO:0000375,"RNA splicing, via transesterification reactions",19_GO:0009987 cellular process,-3.2,17,6.7,21222,235,16,3,19,9.8,20637|72459|192196,Snrnp70|Htatsf1|Luc7l2,0
+MyList,KEGG Pathway,24,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),,-2.9,13,5.9,21222,299,16,3,19,9.8,12300|19395|240168,Cacng2|Rasgrp2|Rasgrp3,0
+MyList,GO Biological Processes,19,GO:0008380,RNA splicing,19_GO:0009987 cellular process,-2.6,11,5.1,21222,377,16,3,19,9.8,20637|72459|192196,Snrnp70|Htatsf1|Luc7l2,0
+MyList,GO Biological Processes,19,GO:0006397,mRNA processing,19_GO:0009987 cellular process,-2.3,8.7,4.6,21222,460,16,3,19,9.8,20637|72459|192196,Snrnp70|Htatsf1|Luc7l2,0
