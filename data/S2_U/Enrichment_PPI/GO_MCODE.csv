@@ -1,5 +1,0 @@
-Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
-MyList,GO Biological Processes,19,GO:0006457,protein folding,19_GO:0009987 cellular process,-4.5,44,11,21222,179,8,3,38,17,12469|13002|14228,Cct8|Dnajc5|Fkbp4,-0.52
-MyList,GO Biological Processes,19,GO:0051604,protein maturation,19_GO:0009987 cellular process,-4.5,19,8.3,21222,573,8,4,50,18,12469|13002|14228|67661,Cct8|Dnajc5|Fkbp4|Ift172,-0.52
-MyList,Reactome Gene Sets,6,R-MMU-2262752,Cellular responses to stress,,-3.2,17,6.7,21222,481,8,3,38,17,14228|19184|20867,Fkbp4|Psmc5|Stip1,0
-MyList,Reactome Gene Sets,6,R-MMU-8953897,Cellular responses to stimuli,,-3.1,15,6.3,21222,544,8,3,38,17,14228|19184|20867,Fkbp4|Psmc5|Stip1,0

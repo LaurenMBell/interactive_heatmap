@@ -1,4 +1,0 @@
-_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
-1,-2.789997281039294,GO:0009987,cellular process,M1,1,GO:0090407 organophosphate biosynthetic process
-1,-2.382133233411322,GO:0051179,localization,M1,1,GO:0031503 protein-containing complex localization
-1,-1.3917613379768028,GO:0050789,regulation of biological process,M1,1,GO:0099536 synaptic signaling
